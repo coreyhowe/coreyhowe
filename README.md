@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coreyhowe
 - 👀 I’m interested in ... bioinformatics and data science
 - 🌱 I’m currently learning ... data science
-- 💞️ I’m looking to collaborate on ... bioinformatics
+- 💞️ I’m looking to collaborate on ... anything bioinformatics 
 - 📫 How to reach me ... coreyhowe99 at gmail dot com
 
 <!---
